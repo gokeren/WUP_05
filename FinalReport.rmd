@@ -69,4 +69,8 @@ The p-value for the Fisher test is very small and there is a big difference betw
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In the data we analyzed, we surveyed the 11,768 females who took triUmpsal to prevent contraction of AIDS. Some females were given placebos and some were not. We found that the drug did not seem to be effective for females in this study. We also found that 210 females who had taken the drug ended up contracting AIDS, and 147 females who took the placebo contracted AIDS. We can take from this that more people who received the drug ended up contracting AIDS. The p-value for the Fisher test from this data was 0.0001, which led us to reject the null hypothesis.
+
+
